@@ -1,0 +1,14 @@
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\bin\Debug\TareasPendientes.mdf
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\bin\Debug\TareasPendientes_log.ldf
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\bin\Debug\datos.dll.config
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\bin\Debug\datos.dll
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\bin\Debug\datos.pdb
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\bin\Debug\EntityFramework.dll
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\bin\Debug\EntityFramework.xml
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\obj\Debug\datos.csprojAssemblyReference.cache
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\obj\Debug\datos.csproj.CoreCompileInputs.cache
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\obj\Debug\datos.csproj.CopyComplete
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\obj\Debug\datos.dll
+C:\Users\AlumnosInf\source\repos\Clase1-2\datos\obj\Debug\datos.pdb
